@@ -50,3 +50,14 @@ body
     background: white;
     padding: 1em;
 }
+#footer
+{
+    font-size: 20px;
+    color:#DDD;
+    padding: 20;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+    width: 67%;
+    background:#333;
+
+}
